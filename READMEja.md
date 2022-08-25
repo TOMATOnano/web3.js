@@ -112,7 +112,7 @@ create-react-app のバージョン >=5 を使用している場合、ビルド�
 ### Solution
 
 
-- react-app-rewiredと不足しているモジュールのインストール
+- react-app-rewiredと不足しているモジュールのインストール:
 
 yarnを使用している場合:
 ```bash
