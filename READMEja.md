@@ -8,7 +8,7 @@
 
 
 これはEthereumの[JavaScript API][docs]を
-Generic JSON-RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC)仕様に接続するものです。
+[Generic JSON-RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC)仕様に接続するものです。
 
 このライブラリを使用するには、ローカルまたはリモートの[Ethereum](https://www.ethereum.org/)ノードを実行する必要があります。
 
