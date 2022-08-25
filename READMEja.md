@@ -251,7 +251,7 @@ sudo apt-get install npm
 
 ### Building (webpack)
 
-Build the web3.js package:
+web3.js packageをビルドします:
 
 ```bash
 npm run build
@@ -312,4 +312,4 @@ npm test
 
 ## Semantic versioning
 
-This project follows [semver](https://semver.org/) as closely as possible **from version 1.3.0 onwards**. Earlier minor version bumps [might](https://github.com/ethereum/web3.js/issues/3758) have included breaking behavior changes.
+このプロジェクトは [semver](https://semver.org/) を **バージョン1.3.0以降**に可能な限り忠実に再現しています。それ以前のminor version bumps[might](https://github.com/ethereum/web3.js/issues/3758)は、壊れるような動作の変更を含んでいます。
